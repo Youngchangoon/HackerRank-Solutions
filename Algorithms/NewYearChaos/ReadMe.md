@@ -1,7 +1,7 @@
 # New Year Chaos
 
 - 문제 링크: https://www.hackerrank.com/challenges/new-year-chaos/problem
-- 문제 해설블로그: https://youngchangoon.tistory.com/manage/newpost/50?type=post&returnURL=https%3A%2F%2Fyoungchangoon.tistory.com%2F50
+- 문제 해설블로그: https://youngchangoon.tistory.com/50
 
 ## 문제 요약
 
